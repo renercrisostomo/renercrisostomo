@@ -4,8 +4,13 @@
 ---
 
 <style>
-  a {
+  .rener_a_style {
     text-decoration: none;
+    color: inherit;
+  }
+
+  .rener_a_style:hover {
+    opacity: 0.8;
   }
 </style>
 
@@ -31,49 +36,48 @@
   <h3>Stack de Tecnologias</h3>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px;">
     <!-- Linguagens / Frameworks -->
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+    <a class="rener_a_style" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     </a>
-    <a href="https://www.typescriptlang.org/docs/" target="_blank">
+    <a class="rener_a_style" href="https://www.typescriptlang.org/docs/" target="_blank">
       <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     </a>
-    <a href="https://nextjs.org/docs" target="_blank">
+    <a class="rener_a_style" href="https://nextjs.org/docs" target="_blank">
       <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
     </a>
-    <a href="https://react.dev/learn" target="_blank">
+    <a class="rener_a_style" href="https://reactjs.org/docs/getting-started.html" target="_blank">
       <img alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     </a>
-    <a href="https://react.dev/learn/passing-data-deeply-with-context" target="_blank">
+    <a class="rener_a_style" href="https://reactjs.org/docs/context.html" target="_blank">
       <img alt="Context API" src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react">
     </a>
-    <a href="https://redux.js.org/introduction/getting-started" target="_blank">
+    <a class="rener_a_style" href="https://redux.js.org/introduction/getting-started" target="_blank">
       <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
     </a>
-    <a href="https://ant.design/docs/react/introduce" target="_blank">
+    <a class="rener_a_style" href="https://ant.design/docs/react/introduce" target="_blank">
       <img alt="Ant Design" src="https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white">
     </a>
-    <a href="https://docs.oracle.com/en/java/" target="_blank">
+    <a class="rener_a_style" href="https://dev.java/learn/" target="_blank">
       <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     </a>
-    <a href="https://quarkus.io/guides/" target="_blank">
+    <a class="rener_a_style" href="https://quarkus.io/guides/" target="_blank">
       <img alt="Quarkus" src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white">
     </a>
-    <a href="https://nodejs.org/en/docs" target="_blank">
+    <a class="rener_a_style" href="https://nodejs.org/en/docs" target="_blank">
       <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
     </a>
   </div>
 </div>
-
 
 ---
 
 <!-- Redes Sociais -->
 <div align="center" style="margin-top: 1em;">
   <h3>Contato</h3>
-  <a href="https://www.linkedin.com/in/renercrisostomo/" target="_blank">
+  <a class="rener_a_style" href="https://www.linkedin.com/in/renercrisostomo/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:renerlcrisostomo@gmail.com" target="_blank">
+  <a class="rener_a_style" href="mailto:renerlcrisostomo@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
