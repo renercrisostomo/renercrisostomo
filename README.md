@@ -42,6 +42,7 @@
 
 <!-- Redes Sociais -->
 <div align="center" style="margin-top: 1em;">
+  <h3>Contato</h3>
   <a href="https://www.linkedin.com/in/renercrisostomo/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
