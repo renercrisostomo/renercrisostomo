@@ -51,6 +51,9 @@
     <a href="https://quarkus.io/guides/" target="_blank" style="text-decoration: none; color: inherit;">
       <img alt="Quarkus" src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white">
     </a>
+    <a href="https://docs.grails.org/" target="_blank" style="text-decoration: none; color: inherit;">
+      <img alt="Grails" src="https://img.shields.io/badge/Grails-6DB33F?style=for-the-badge&logo=grails&logoColor=white">
+    </a>
     <a href="https://nodejs.org/en/docs" target="_blank" style="text-decoration: none; color: inherit;">
       <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
     </a>
