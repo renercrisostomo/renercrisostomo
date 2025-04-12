@@ -24,7 +24,7 @@
 <div align="center">
   <h3>Stack de Tecnologias</h3>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px;">
-    <a href="https://www.javascript.com/" target="_blank" style="text-decoration: none; color: inherit;">
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" style="text-decoration: none; color: inherit;">
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration: none; color: inherit;">
