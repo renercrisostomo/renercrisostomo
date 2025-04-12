@@ -24,40 +24,40 @@
 <div align="center">
   <h3>Stack de Tecnologias</h3>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px;">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none; color: inherit;">
+    <a href="https://www.javascript.com/" target="_blank" style="text-decoration: none; color: inherit;">
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     </a>
-    <a href="https://www.typescriptlang.org/docs/" target="_blank" style="text-decoration: none; color: inherit;">
+    <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration: none; color: inherit;">
       <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     </a>
-    <a href="https://nextjs.org/docs" target="_blank" style="text-decoration: none; color: inherit;">
+    <a href="https://nextjs.org/" target="_blank" style="text-decoration: none; color: inherit;">
       <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
     </a>
-    <a href="https://reactjs.org/docs/getting-started.html" target="_blank" style="text-decoration: none; color: inherit;">
+    <a href="https://reactjs.org/" target="_blank" style="text-decoration: none; color: inherit;">
       <img alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     </a>
-    <a href="https://reactjs.org/docs/context.html" target="_blank" style="text-decoration: none; color: inherit;">
+    <a href="https://reactjs.org/" target="_blank" style="text-decoration: none; color: inherit;">
       <img alt="Context API" src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react">
     </a>
-    <a href="https://redux.js.org/introduction/getting-started" target="_blank" style="text-decoration: none; color: inherit;">
+    <a href="https://redux.js.org/" target="_blank" style="text-decoration: none; color: inherit;">
       <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
     </a>
-    <a href="https://ant.design/docs/react/introduce" target="_blank" style="text-decoration: none; color: inherit;">
+    <a href="https://ant.design/" target="_blank" style="text-decoration: none; color: inherit;">
       <img alt="Ant Design" src="https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white">
     </a>
-    <a href="https://dev.java/learn/" target="_blank" style="text-decoration: none; color: inherit;">
+    <a href="https://www.java.com/" target="_blank" style="text-decoration: none; color: inherit;">
       <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     </a>
-    <a href="https://quarkus.io/guides/" target="_blank" style="text-decoration: none; color: inherit;">
+    <a href="https://quarkus.io/" target="_blank" style="text-decoration: none; color: inherit;">
       <img alt="Quarkus" src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white">
     </a>
-    <a href="https://docs.grails.org/" target="_blank" style="text-decoration: none; color: inherit;">
+    <a href="https://grails.org/" target="_blank" style="text-decoration: none; color: inherit;">
       <img alt="Grails" src="https://img.shields.io/badge/Grails-6DB33F?style=for-the-badge&logo=grails&logoColor=white">
     </a>
-    <a href="https://nodejs.org/en/docs" target="_blank" style="text-decoration: none; color: inherit;">
+    <a href="https://nodejs.org/" target="_blank" style="text-decoration: none; color: inherit;">
       <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
     </a>
-    <a href="https://www.postgresql.org/docs/" target="_blank" style="text-decoration: none; color: inherit;">
+    <a href="https://www.postgresql.org/" target="_blank" style="text-decoration: none; color: inherit;">
       <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
     </a>
   </div>
