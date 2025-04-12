@@ -25,18 +25,39 @@
   <h3>Stack de Tecnologias</h3>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px;">
     <!-- Linguagens / Frameworks -->
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-    <img alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img alt="Context API" src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react">
-    <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-    <img alt="Ant Design" src="https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img alt="Quarkus" src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    </a>
+    <a href="https://www.typescriptlang.org/docs/" target="_blank">
+      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+    </a>
+    <a href="https://nextjs.org/docs" target="_blank">
+      <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+    </a>
+    <a href="https://react.dev/learn" target="_blank">
+      <img alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    </a>
+    <a href="https://react.dev/learn/passing-data-deeply-with-context" target="_blank">
+      <img alt="Context API" src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react">
+    </a>
+    <a href="https://redux.js.org/introduction/getting-started" target="_blank">
+      <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+    </a>
+    <a href="https://ant.design/docs/react/introduce" target="_blank">
+      <img alt="Ant Design" src="https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white">
+    </a>
+    <a href="https://docs.oracle.com/en/java/" target="_blank">
+      <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+    </a>
+    <a href="https://quarkus.io/guides/" target="_blank">
+      <img alt="Quarkus" src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white">
+    </a>
+    <a href="https://nodejs.org/en/docs" target="_blank">
+      <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+    </a>
   </div>
 </div>
+
 
 ---
 
