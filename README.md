@@ -54,6 +54,9 @@
     <a href="https://nodejs.org/en/docs" target="_blank" style="text-decoration: none; color: inherit;">
       <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
     </a>
+    <a href="https://www.postgresql.org/docs/" target="_blank" style="text-decoration: none; color: inherit;">
+      <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+    </a>
   </div>
 </div>
 
