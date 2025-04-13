@@ -8,9 +8,6 @@
   a {
     text-decoration: none !important;
   }
-  div-style {
-    visibility: hidden;
-  }
 </style>
 </div>
 
