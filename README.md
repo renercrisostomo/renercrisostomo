@@ -3,13 +3,11 @@
 
 ---
 
-<div class="div-style">
 <style>
   a {
     text-decoration: none !important;
   }
 </style>
-</div>
 
 <!-- Apresentação Principal -->
 <div align="center">
