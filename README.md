@@ -60,6 +60,9 @@
     <a href="https://www.postgresql.org/" target="_blank" style="text-decoration: none; color: inherit;">
       <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
     </a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank" style="text-decoration: none; color: inherit;">
+      <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+    </a>
   </div>
 </div>
 
