@@ -12,7 +12,7 @@
 
 <!-- Stats -->
 <div align="center">
-  <a href="https://github.com/renercrisostomo" style="text-decoration: none; color: inherit;">
+  <a href="https://github.com/renercrisostomo" style="text-decoration: none !important; color: inherit;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renercrisostomo&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renercrisostomo&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
   </a>
