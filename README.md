@@ -3,12 +3,6 @@
 
 ---
 
-<style>
-  a {
-    text-decoration: none !important;
-  }
-</style>
-
 <!-- Apresentação Principal -->
 <div align="center">
   <h1 style="font-size: 2.5em; margin-bottom: 0.2em;">Olá, eu sou Renêr</h1>
