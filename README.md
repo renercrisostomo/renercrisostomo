@@ -1,8 +1,6 @@
 <!-- Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2965ff&height=120&section=header"/>
 
----
-
 <!-- Apresentação Principal -->
 <div align="center">
   <h1 style="font-size: 2.5em; margin-bottom: 0.2em;">Olá, eu sou Renêr</h1>
