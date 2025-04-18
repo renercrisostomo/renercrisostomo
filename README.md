@@ -13,8 +13,8 @@
 <!-- Stats -->
 <div align="center">
   <a href="https://github.com/renercrisostomo" style="text-decoration: none !important; color: inherit;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renercrisostomo&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renercrisostomo&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renercrisostomo&theme=react&hide_border=false&include_all_commits=false&count_private=false&title_color=5094f0&ring_color=5094f0"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renercrisostomo&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact&title_color=5094f0"/>
   </a>
 </div>
 
