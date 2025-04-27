@@ -16,6 +16,9 @@
   </a>
 </div>
 
+<div style="height: 1px; width: 100%; background: #ccc;"></div>
+
+
 ---
 <div style="height: 1px; background-color: var(--borderColor-muted, var(--color-border-muted));"></div>
 
