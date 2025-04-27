@@ -16,11 +16,7 @@
   </a>
 </div>
 
-<div style="height: 1px; width: 100%; background: #ccc;"></div>
-
-
 ---
-<div style="height: 1px; background-color: var(--borderColor-muted, var(--color-border-muted));"></div>
 
 <!-- Linguagens & Ferramentas -->
 <div align="center">
@@ -68,7 +64,7 @@
   </div>
 </div>
 
-<div style="height: 1px; background-color: var(--borderColor-muted, var(--color-border-muted));"></div>
+---
 
 <!-- Redes Sociais -->
 <div align="center" style="margin-top: 1em;">
