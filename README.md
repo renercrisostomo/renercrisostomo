@@ -16,7 +16,7 @@
   </a>
 </div>
 
----
+<hr style="height: 1px; background-color: var(--borderColor-muted, var(--color-border-muted));">
 
 <!-- Linguagens & Ferramentas -->
 <div align="center">
@@ -64,7 +64,7 @@
   </div>
 </div>
 
----
+<hr style="height: 1px; background-color: var(--borderColor-muted, var(--color-border-muted));">
 
 <!-- Redes Sociais -->
 <div align="center" style="margin-top: 1em;">
