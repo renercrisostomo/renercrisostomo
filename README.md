@@ -49,6 +49,9 @@
     <a href="https://quarkus.io/" target="_blank" style="text-decoration: none; color: inherit;">
       <img alt="Quarkus" src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white">
     </a>
+    <a href="https://flutter.dev/" target="_blank" style="text-decoration: none; color: inherit;">
+      <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+    </a>
     <a href="https://grails.org/" target="_blank" style="text-decoration: none; color: inherit;">
       <img alt="Grails" src="https://img.shields.io/badge/Grails-6DB33F?style=for-the-badge&logo=grails&logoColor=white">
     </a>
