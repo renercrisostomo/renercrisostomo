@@ -78,6 +78,9 @@
   <a href="mailto:renerlcrisostomo@gmail.com" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <div align="center" style="margin-top: 1em;">
+    <a href="https://www.exophase.com/user/Rener/"><img src="https://card.exophase.com/2/0/320273.png?1773532743"></a>
+  </div>
 </div>
 
 <!-- Animação de Contribuição -->
