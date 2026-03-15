@@ -93,10 +93,5 @@
   </picture>
 </div>
 
-<!-- Exophase -->
-<div align="center" style="margin-top: 1em;">
-  <a href="https://www.exophase.com/user/Rener/"><img src="https://card.exophase.com/2/0/320273.png?1773532743"></a>
-</div>
-
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2965ff&height=120&section=footer"/>
