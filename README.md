@@ -11,8 +11,8 @@
 <!-- Stats -->
 <div align="center">
   <a href="https://github.com/renercrisostomo" style="text-decoration: none !important; color: inherit;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renercrisostomo&theme=react&hide_border=false&include_all_commits=false&count_private=false&title_color=5094f0&ring_color=5094f0&rank_icon=github"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renercrisostomo&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact&title_color=5094f0"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=renercrisostomo&theme=react&hide_border=false&include_all_commits=false&count_private=false&title_color=5094f0&ring_color=5094f0&rank_icon=github"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=renercrisostomo&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact&title_color=5094f0"/>
   </a>
 </div>
 
@@ -42,6 +42,9 @@
     </a>
     <a href="https://ant.design/" target="_blank" style="text-decoration: none; color: inherit;">
       <img alt="Ant Design" src="https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white">
+    </a>
+    <a href="https://www.python.org/" target="_blank" style="text-decoration: none; color: inherit;">
+      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     </a>
     <a href="https://www.java.com/" target="_blank" style="text-decoration: none; color: inherit;">
       <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
