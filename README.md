@@ -3,9 +3,9 @@
 
 <!-- Apresentação Principal -->
 <div align="center">
-  <h1 style="font-size: 2.5em; margin-bottom: 0.2em;">Olá, eu sou Renêr</h1>
+  <h1 style="font-size: 2.5em; margin-bottom: 0.2em;">Olá, eu sou Renêr 👋</h1>
   <p style="font-size: 1.2em;">Desenvolvedor FullStack | Estudante de Ciência da Computação - IFCE Maracanaú</p>
-  <p>Curioso por natureza e apaixonado por tecnologia</p>
+  <p>Apaixonado por tecnologia</p>
 </div>
 
 <!-- Stats -->
