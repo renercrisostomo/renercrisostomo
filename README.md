@@ -3,8 +3,8 @@
 
 <!-- Apresentação Principal -->
 <div align="center">
-  <h1 style="font-size: 2.5em; margin-bottom: 0.2em;">Olá, eu sou Renêr 👋</h1>
-  <p style="font-size: 1.2em;">Desenvolvedor FullStack | Estudante de Ciência da Computação - IFCE Maracanaú</p>
+  <h1 style="font-size: 2.5em; margin-bottom: 0.2em;">Hello, I am Renêr 👋</h1>
+  <p style="font-size: 1.2em;">FullStack Developer | Computer Science Student - IFCE Maracanaú</p>
 </div>
 
 <!-- Stats -->
@@ -19,7 +19,7 @@
 
 <!-- Linguagens & Ferramentas -->
 <div align="center">
-  <h3>Stack de Tecnologias</h3>
+  <h3>Tech Stack</h3>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px;">
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" style="text-decoration: none; color: inherit;">
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -70,7 +70,7 @@
 
 <!-- Redes Sociais -->
 <div align="center" style="margin-top: 1em;">
-  <h3>Contato</h3>
+  <h3>Contact</h3>
   <a href="https://www.linkedin.com/in/renercrisostomo/" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
