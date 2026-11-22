@@ -9,11 +9,11 @@
 </div>
 
 <!-- Stats -->
-<div align="center">
+<!-- <div align="center">
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=renercrisostomo&theme=react&hide_border=false&include_all_commits=true&count_private=true&title_color=5094f0&ring_color=5094f0&rank_icon=github"/>
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=renercrisostomo&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=5094f0"/>
 </div>
-
+-->
 ---
 
 <!-- Tech Stack -->
