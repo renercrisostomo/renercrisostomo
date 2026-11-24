@@ -4,7 +4,7 @@
 <!-- Apresentação Principal -->
 <div align="center">
   <h1>Hi, I'm Renêr 👋</h1>
-  <p><b>Full Stack Developer</b> | Computer Science — IFCE Maracanaú</p>
+  <p><b>Full Stack Developer</b> | Computer Science - IFCE Maracanaú</p>
   <p>Building scalable web applications with React, Next.js, TypeScript, Python, and Java.</p>
 </div>
 
